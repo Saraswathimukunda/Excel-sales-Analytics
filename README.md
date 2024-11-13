@@ -8,7 +8,7 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Saraswathimukunda/Excel-sales-Analytics/blob/main/market%20vs%20tarhet%20performance.pdf)_
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance. 
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
@@ -24,7 +24,7 @@ https://github.com/Saraswathimukunda/Excel-sales-Analytics/blob/main/finance%20P
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Saraswathimukunda/Excel-sales-Analytics/blob/main/finance%20P%26L%20for%20market.pdf)_
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
